@@ -35,14 +35,15 @@ public class LongestPrefix {
 		String result = longestCommonPrefix(res);
 		// Show result
 		System.out.println(result);
+
 	}
 
 	@Test
 	public void testcase2() {
-		String[] res = { "dog", "racecar", "car" };
-		String result1 = longestCommonPrefix(res);
+		String[] res1 = { "dog", "racecar", "car" };
+		String result2 = longestCommonPrefix(res1);
 		// Show result
-		System.out.println(result1);
+		System.out.println(result2);
 
 	}
 }

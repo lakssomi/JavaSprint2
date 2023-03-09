@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-09T14:13:09 PST" name="Default suite" finished-at="2023-01-09T14:13:09 PST" duration-ms="44">
+  <suite started-at="2023-01-15T21:27:12 PST" name="Default suite" finished-at="2023-01-15T21:27:12 PST" duration-ms="41">
     <groups>
     </groups>
-    <test started-at="2023-01-09T14:13:09 PST" name="Default test" finished-at="2023-01-09T14:13:09 PST" duration-ms="44">
-      <class name="javaprogrames.LongestPrefix">
-        <test-method signature="testcase1()[pri:0, instance:javaprogrames.LongestPrefix@54a7079e]" started-at="2023-01-09T14:13:09 PST" name="testcase1" finished-at="2023-01-09T14:13:09 PST" duration-ms="8" status="PASS">
+    <test started-at="2023-01-15T21:27:12 PST" name="Default test" finished-at="2023-01-15T21:27:12 PST" duration-ms="41">
+      <class name="javaprogrames.GitAssignment1">
+        <test-method signature="testCase1()[pri:0, instance:javaprogrames.GitAssignment1@4d0f2471]" started-at="2023-01-15T21:27:12 PST" name="testCase1" finished-at="2023-01-15T21:27:12 PST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase1 -->
-        <test-method signature="testcase2()[pri:0, instance:javaprogrames.LongestPrefix@54a7079e]" started-at="2023-01-09T14:13:09 PST" name="testcase2" finished-at="2023-01-09T14:13:09 PST" duration-ms="2" status="PASS">
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:javaprogrames.GitAssignment1@4d0f2471]" started-at="2023-01-15T21:27:12 PST" name="testCase2" finished-at="2023-01-15T21:27:12 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase2 -->
-      </class> <!-- javaprogrames.LongestPrefix -->
+        </test-method> <!-- testCase2 -->
+      </class> <!-- javaprogrames.GitAssignment1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
